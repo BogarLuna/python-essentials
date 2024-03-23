@@ -1,0 +1,18 @@
+Una API (del inglés, application programming interface, en español, interfaz de programación de aplicaciones)
+1​ es una pieza de código que permite a diferentes aplicaciones comunicarse entre sí y compartir información 
+y funcionalidades. Una API es un intermediario entre dos sistemas, que permite que una aplicación se 
+comunique con otra y pida datos o acciones específicas.
+
+Por ejemplo, si se tiene una app para móviles acerca de recetas y se hace una búsqueda de una determinada 
+receta, se puede utilizar una API para que esta aplicación se comunique con el sitio web de recetas y pida las 
+recetas que cumplen con los criterios de búsqueda. La API entonces se encarga de recibir la solicitud, buscar 
+las recetas apropiadas y regresar los resultados a la aplicación. Una API es una forma de conectar diferentes aplicaciones y
+hacer que trabajen juntas de manera más eficiente y efectiva.2​ Son usadas generalmente en las bibliotecas de programación.
+
+Características
+Una API representa la capacidad de comunicación entre componentes de software. Se trata del conjunto de llamadas a ciertas 
+bibliotecas que ofrecen acceso a ciertos servicios desde los procesos y representa un método para conseguir abstracción en la programación, 
+generalmente (aunque no necesariamente) entre los niveles o capas inferiores y los superiores del software. Uno de los principales propósitos 
+de una API consiste en proporcionar un conjunto de funciones de uso general, por ejemplo, para dibujar ventanas o iconos en la pantalla. 
+De esta forma, los programadores se benefician de las ventajas de las API haciendo uso de su funcionalidad, evitándose el trabajo de programar 
+todo desde el principio. Las API asimismo son abstractas: el software que proporciona una cierta API generalmente es llamado la implementación de esa API. 
